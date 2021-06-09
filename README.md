@@ -1,6 +1,6 @@
 # etch-a-sketch
 
-CREATE YOUR OWN PIXEL ART
+**CREATE YOUR OWN PIXEL ART**
 
 Select any colour for the pen or background.
 Grab used colours from the canvas.
